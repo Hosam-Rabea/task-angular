@@ -1,0 +1,17 @@
+
+.Home{
+    background-image: url(/images/1.jpg);
+    background-size: cover;
+    padding: 20px;
+    height: 90vh;
+}
+
+.Home h1{
+    position: absolute;
+    top: 50%;
+    left: 17%;
+    color: #777;   
+}
+.creat h2{
+    color: #32dbc6;
+}
